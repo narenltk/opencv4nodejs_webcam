@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="img/banner.jpeg">
+</p>
+
 # Using opencv4nodejs to stream your webcam with Express, ejs and Socket IO
 
 Follow the steps to stream your webcam with Express and socket io
