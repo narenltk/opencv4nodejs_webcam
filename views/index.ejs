@@ -11,8 +11,8 @@
         const socket = io.connect('http://localhost:3030');
         socket.on('image', (image) => { 
             // console.log('data', data);
-            const imgElm = document.getElementById('image');
-            imgElm.src = `data:image/jpeg;base64,${image}`;
+            const img = document.getElementById('image');
+            img.src = `data:image/jpeg;base64,${image}`;
         });
     </script>
     
