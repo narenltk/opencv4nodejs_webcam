@@ -2,7 +2,7 @@
 
 Follow the steps to stream your webcam with Express and socket io
 
-** Link for Socket IO Content Delivery Network which is hosted by cloudflare [Link](https://cdnjs.com/libraries/socket.io)
+Link for Socket IO Content Delivery Network which is hosted by cloudflare [Link](https://cdnjs.com/libraries/socket.io)
 
 ### Step 1:
 
