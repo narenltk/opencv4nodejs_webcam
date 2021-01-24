@@ -1,1 +1,1 @@
-# webcam stream using Express, opencv4nodejs, ejs and Socket IO
+# Using opencv4nodejs to stream your webcam with Express, ejs and Socket IO
