@@ -48,7 +48,9 @@ I have used the port 3030 and you can change the port to any number you like.
 
 ## Note
 
-You can also host the application not just on your local machine but also you can use ngrok to host in a public server and follow the following command
+You can also host the application by creating your own SSL certificate and the link for code for that is here[Link](https://github.com/narenltk/ssl_.git)
+
+Or in any case your You can also host the application not just on your local machine but also you can use ngrok to host in a public server and follow the following command
 
 Linux users command:
 ```
