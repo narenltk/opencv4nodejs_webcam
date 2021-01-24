@@ -10,6 +10,7 @@ app.set('view engine', 'ejs');
 app.get('/', (req, res, next) => {
     res.render('index');
 });
+
 const FPS = 100;
 const Vcap = new cv2.VideoCapture(0);
 Vcap.set(cv2.CAP_PROP_FRAME_WIDTH, 300);
