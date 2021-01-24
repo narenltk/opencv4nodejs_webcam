@@ -40,7 +40,7 @@ nodemon server.js
   <img src="img/node_server.png">
 </p>
 
-checkout "https://localhost:3030"
+checkout "http://localhost:3030"
 
 I have used the port 3030 and you can change the port to any number you like.
 
