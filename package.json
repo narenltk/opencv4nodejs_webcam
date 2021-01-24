@@ -1,0 +1,17 @@
+{
+  "name": "webcam_",
+  "version": "1.0.0",
+  "description": "Stream webcam using opencv",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "narenltk",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "opencv4nodejs": "^5.6.0",
+    "socket.io": "^3.1.0"
+  }
+}
