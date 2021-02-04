@@ -5,6 +5,8 @@
 
 # Using opencv4nodejs to stream your webcam with Express, ejs and Socket IO
 
+## Medium Blog Link [Link](https://medium.com/swlh/video-streaming-using-opencv4nodejs-with-node-js-express-and-socket-io-3806abb049a)
+
 Follow the steps to stream your webcam with Express and socket io
 
 Link for Socket IO Content Delivery Network which is hosted by cloudflare [Link](https://cdnjs.com/libraries/socket.io)
